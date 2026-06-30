@@ -1,1 +1,11 @@
-# 23csb13
+{
+  "chat.disableAIFeatures": true,
+  "chat.agent.enabled": false,
+  "editor.inlineSuggest.enabled": false,
+  "files.exclude": {
+    "**/.vscode": true
+  },
+  "files.readonlyInclude": {
+    "**/.vscode": true
+  }
+}
