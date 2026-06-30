@@ -1,0 +1,11 @@
+#create notification
+post/api/http://4.224.186.213/evaluation-services/register
+request:{
+"Taskid":sderfedcefefefcefcefcdcwwedwc
+"Duration":1
+"Impact":3
+}
+response:{
+"notofication id": "n001"
+"status":"created"
+}
